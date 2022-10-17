@@ -327,14 +327,14 @@ color:black !important ;
   }
   .vidx { 
     width: 100%;
-      min-height: 100px;
+      max-height: 100px;
     -webkit-transform: scaleX(2); 
     -moz-transform: scaleX(2);
     }
      .vidx:before {
     background-image: url('http://farm8.staticflickr.com/7212/7329494986_c1191f6e55.jpg') repeat;
-    width:250px;
-    min-height:100%;
+    width:auto;
+    max-height:100px;
     }
   .vid-dit{
     width:auto; height:100px;
