@@ -331,12 +331,13 @@ color:black !important ;
     -webkit-transform: scaleX(2); 
     -moz-transform: scaleX(2);
     }
-    .vidx:before {
+     .vidx:before {
     background-image: url('http://farm8.staticflickr.com/7212/7329494986_c1191f6e55.jpg') repeat;
-    width:250px
+    width:250px;
+    min-height:100%;
     }
   .vid-dit{
-    width:250px; height:auto;
+    width:auto; height:150px;
   }
   .dtx{
     font-size: 13px;
