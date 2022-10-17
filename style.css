@@ -76,14 +76,14 @@
   overflow: hidden;
  } */
 
- .myGal{
+/*  .myGal{
   width: 350px;
   height: 350px;
   /* border:2px solid blue; */
   padding:1em;
   border-radius:8em;
   box-shadow: black 1px 1px 2px rgba(0,0,0,0);
- }
+ } */
  .myGal:hover{
   padding:3em;
   border-radius:8em;
