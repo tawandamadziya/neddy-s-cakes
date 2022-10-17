@@ -326,8 +326,8 @@ color:black !important ;
     width: 382px;
   }
   .vidx { 
-    width: 250px;
-      height: auto;
+    width: 100%;
+      min-height: 100px;
     -webkit-transform: scaleX(2); 
     -moz-transform: scaleX(2);
     }
